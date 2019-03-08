@@ -24,12 +24,13 @@
 	font-weight: 300;
 	line-height: 1;
 	font-family: 'Merriweather Sans', sans-serif;
-	color:rgb();(200, 173, 127)
+
 }
 
 .cbp-so-section p {
 	font-size: 1.8em;
 	font-weight: 300;
+	color:rgb(200, 173, 127)
 }
 
 /* Sides */
