@@ -20,13 +20,15 @@
 
 /* Text styling */
 .cbp-so-section h2 {
-	font-size: 5em;
+	font-size: 4em;
 	font-weight: 300;
 	line-height: 1;
+	font-family: 'Merriweather Sans', sans-serif;
+	color:rgb();(200, 173, 127)
 }
 
 .cbp-so-section p {
-	font-size: 2em;
+	font-size: 1.8em;
 	font-weight: 300;
 }
 
@@ -131,4 +133,3 @@
 		max-width: 100%;
 	}
 }
-
