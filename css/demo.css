@@ -22,11 +22,11 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 body {
     font-family: 'Glegoo', serif;
     color: rgb(0,0,0);
-    background: #fff;
-}
+		background: rgb(251,248,248);
+		background: linear-gradient(0deg, rgba(251,248,248,1) 0%, rgba(45,84,253,0.17690826330532217) 100%);}
 
 a {
-	color: #f0f0f0;
+		color: rgb(131, 166, 151);
 	text-decoration: none;
 }
 

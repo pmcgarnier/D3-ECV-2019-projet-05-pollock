@@ -28,7 +28,7 @@
 }
 
 .cbp-so-section p {
-	font-size: 1.8em;
+	font-size: 1.4em;
 	font-weight: 300;
 	color:rgb(200, 173, 127)
 }
@@ -121,6 +121,7 @@
 
 	.cbp-so-side img {
 		max-width: 120%;
+		border: 2px dashed #040404;
 	}
 }
 
